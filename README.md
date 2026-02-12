@@ -34,7 +34,6 @@ pip install -r requirements.txt
 ### 2. Configure Environment
 Create a .env file from the example and add your API key:
 
-Bash
 # Linux/Mac
 cp .env.example .env
 
@@ -47,15 +46,14 @@ Place your aviation PDF manuals in the data/ folder..
 
 Run the ingestion script to process the PDFs and build the vector database:
 
-Bash
 python src/ingest.py
 You will see a progress bar as it chunks the text and saves the index to index/faiss_store.
 
 ## 4. Run the Application
 Start the FastAPI server:
 
-Bash
 uvicorn src.main:app --reload
+
 The server will start at http://127.0.0.1:8000.
 
 ## How to Use
@@ -79,15 +77,15 @@ JSON
 Click Execute.
 
 View Response: Scroll down to see the answer and the exact citations (source file & page number).
+
 ## 5.Evaluation & Testing
 To verify reliability, run the automated evaluation script (tests 50 questions):
 
-Bash
 python evaluate.py
 This generates a report in tests/eval_report.json showing the Hit Rate, Faithfulness, and Hallucination Rate.
 
 
-
 ```bash
+
 
 
