@@ -1,0 +1,17 @@
+# Secrets (NEVER PUSH THESE)
+.env
+.venv
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Data (Too big for GitHub)
+data/
+data_small/
+index/
+
+# System files
+.DS_Store

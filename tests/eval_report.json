@@ -1,0 +1,1007 @@
+{
+    "hit_rate": "40.0%",
+    "hallucination_rate": "0.0%",
+    "faithfulness": "High (Strict System Prompt used)",
+    "results": [
+        {
+            "id": 1,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 31
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 165
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 27
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 2,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 569
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 52
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 51
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 3,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 41
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 41
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 235
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 4,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 26
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 26
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 3
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 5,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 497
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 269
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 243
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 6,
+            "type": "factual",
+            "answer": "Class D: IFR and VFR flights are permitted and all flights are subject to ATC service; IFR flights \nare separated from other IFR flights and receive traffic information in respect of VFR flights; \nVFR flights receive traffic information in respect to all other flights.\n\nThe correct answer is: C is incorrect, the correct answer is related to Class D, however since it is not among the options A, B or C, the correct option is not available, but based on the provided context, the description matches Class D, which is not among the options A, B, or C, but the closest match is not available, so the correct option is not A, B, or C, but since D is the only one left: D. Class E is not correct based on the provided context, however Class D is not among the options A, B, or C, but the description provided does not match Class A, B, or C, but the description provided matches Class D, which is not among the options, but since the only option left is D, and the description for Class D was provided, but the description for Class E was also provided, and based on the provided context for Class D and E, Class D is the one that has IFR flights separated from other IFR flights, however the question asks for the airspace class that permits both IFR and VFR flights with ATC separation provided only to IFR, which based on the context is more related to Class D, however since Class D provides separation to IFR from other IFR and also provides traffic information, the correct answer is more related to the description of Class D, however since the question asks for ATC separation provided only to IFR, and based on the provided context for Class D and E, Class E provides separation to IFR from other IFR, and provides traffic information as far as is practicable, which can be considered as the closest match to the question, however the question asks for ATC separation provided only to IFR, which based on the provided context is more related to Class E.\n\nThe correct answer is D. Class E.",
+            "citations": [
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 157
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 157
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 235
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 7,
+            "type": "factual",
+            "answer": "The primary objective of Air Traffic Services is to: B. Prevent collisions between aircraft.",
+            "citations": [
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 160
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 325
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 267
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 8,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 12
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 11
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 17
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 9,
+            "type": "factual",
+            "answer": "B. Temperature to which air must be cooled to become saturated",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 90
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 566
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 590
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 10,
+            "type": "factual",
+            "answer": "The correct answer is B. 3\u00b0C per 1000 ft, which is equivalent to 9.8\u00b0C per km, but closest to the option is not available, however, another option is  approximately 10\u00b0C per km. \n\nThe correct answer is:  The Dry Adiabatic Lapse Rate (DALR) is the lapse rate for rising dry (i.e. unsaturated) air.  It has a constant value of 1\u00b0C/100 m (about 3\u00b0C/1000 ft). \n\nSo the closest answer is: B. 3\u00b0C per 1000 ft, but in terms of per km, the closest is C. 10\u00b0C per km.",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 95
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 99
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 642
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 11,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 469
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 653
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 173
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 12,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 265
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 641
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 105
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 13,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 353
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 471
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 138
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 14,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 631
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 298
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 193
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 15,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 20
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 2
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 2
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 16,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 70
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 567
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 253
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 17,
+            "type": "factual",
+            "answer": "C. Differential heating between land and sea.",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 167
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 566
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 175
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 18,
+            "type": "factual",
+            "answer": "The minimum number of satellites required by GNSS to determine a 3-D position and time error correction is 4. \n\nThis is because the receiver can set up 4 linear simultaneous equations with 4 unknown quantities (X, Y, Z, and T) which it solves by iteration to remove the receiver time error, and hence, range errors. \n\nThe correct answer is B. 4.",
+            "citations": [
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 359
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 317
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 322
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 19,
+            "type": "factual",
+            "answer": "C. Nimbostratus",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 231
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 232
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 212
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 20,
+            "type": "factual",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 78
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 326
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 443
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 21,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 38
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 148
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 138
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 22,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 273
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 273
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 273
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 23,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 443
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 460
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 460
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 24,
+            "type": "applied",
+            "answer": "C. Individual aircraft identification",
+            "citations": [
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 233
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 244
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 233
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 25,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 265
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 641
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 105
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 26,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 160
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 31
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 228
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 27,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 646
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 637
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 642
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 28,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 174
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 173
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 536
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 29,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 9
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 11
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 275
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 30,
+            "type": "applied",
+            "answer": "According to the context: \"Descending at a constant Mach number the TAS will reduce and the CAS will increase.\"\n\nThe answer is: A. Increase",
+            "citations": [
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 638
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 94
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 93
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 31,
+            "type": "applied",
+            "answer": "The range of a VHF navigation aid is primarily limited by: C. Line-of-sight distance.",
+            "citations": [
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 29
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 30
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 43
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 32,
+            "type": "applied",
+            "answer": "B. Clear ice.",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 292
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 303
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 291
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 33,
+            "type": "applied",
+            "answer": "C. Convection",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 78
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 67
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 95
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 34,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 439
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 296
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 15
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 35,
+            "type": "applied",
+            "answer": "The Dry Adiabatic Lapse Rate (DALR) is given as 1\u00b0C/100 m, which is equivalent to approximately 10\u00b0C/km or 3\u00b0C/1000 ft, but the closest match among the given options is B. 3\u00b0C per 1000 ft, and also 10\u00b0C per km which matches option C, however since option B is mentioned in the context, the answer is B. 3\u00b0C per 1000 ft.",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 93
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 95
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 95
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 36,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 333
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 139
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 208
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 37,
+            "type": "applied",
+            "answer": "C. Individual aircraft identification",
+            "citations": [
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 233
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 244
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 233
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 38,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 26
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 26
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 3
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 39,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 14
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 14
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 69
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 40,
+            "type": "applied",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 174
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 173
+                },
+                {
+                    "source": "data_small/6-mass-and-balance-and-performance-2014.pdf",
+                    "page": 536
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 41,
+            "type": "reasoning",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 116
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 195
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 262
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 42,
+            "type": "reasoning",
+            "answer": "C. Expected true airspeed",
+            "citations": [
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 245
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 237
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 237
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 43,
+            "type": "reasoning",
+            "answer": "According to the context, Relative Humidity is dependent upon \"Moisture content and temperature of the air\" (Question 3). \n\nRelative humidity increases in \"cold air at a constant vapour pressure\" (Question 42) and \"colder air compared to warmer air\" (Question 42). \n\nTherefore, Relative humidity will increase when: B. Temperature decreases with constant moisture.",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 646
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 642
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 637
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 44,
+            "type": "reasoning",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 260
+                },
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 12
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 503
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 45,
+            "type": "reasoning",
+            "answer": "C. Take-off and landing.",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 262
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 262
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 125
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 46,
+            "type": "reasoning",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 611
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 237
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 618
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 47,
+            "type": "reasoning",
+            "answer": "This information is not available in the provided document(s).",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 252
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 237
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 222
+                }
+            ],
+            "status": "Refused"
+        },
+        {
+            "id": 48,
+            "type": "reasoning",
+            "answer": "The correct answer is D. Anticyclone. \n\nAccording to the provided context, specifically the options provided for questions, an Anticyclone is associated with high pressure, which is often linked to subsidence (sinking air) and fair weather.",
+            "citations": [
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 368
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 57
+                },
+                {
+                    "source": "data_small/Meteorology full book.pdf",
+                    "page": 584
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 49,
+            "type": "reasoning",
+            "answer": "According to the context: \"Descending at a constant Mach number the TAS will reduce and the CAS will increase.\"\n\nThe answer is: A. Increase",
+            "citations": [
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 638
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 94
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 93
+                }
+            ],
+            "status": "Answered"
+        },
+        {
+            "id": 50,
+            "type": "reasoning",
+            "answer": "The primary objective of Air Traffic Services is to: B. Prevent collisions between aircraft.",
+            "citations": [
+                {
+                    "source": "data_small/7-Flight-Planning-and-Monitoring-2014.pdf",
+                    "page": 160
+                },
+                {
+                    "source": "data_small/Instruments.pdf",
+                    "page": 325
+                },
+                {
+                    "source": "data_small/11-radio-navigation-2014.pdf",
+                    "page": 267
+                }
+            ],
+            "status": "Answered"
+        }
+    ]
+}
