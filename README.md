@@ -7,7 +7,7 @@ AIRMAN is a specialized AI assistant designed to answer pilot queries strictly b
 * **Zero Hallucination:** "Hard Rule" prompt engineering ensures the AI refuses to answer out-of-bounds questions (e.g., "Who painted the Mona Lisa?").
 * **Traceable Citations:** Every answer includes the source document and page number.
 * **Local Processing:** Ingestion and Vector Search (FAISS) run entirely locally.
-* **Containerized:** Fully Dockerized for consistent deployment.
+
 
 ---
 
@@ -88,3 +88,4 @@ This generates a report in tests/eval_report.json showing the Hit Rate, Faithful
 
 
 ```bash
+
