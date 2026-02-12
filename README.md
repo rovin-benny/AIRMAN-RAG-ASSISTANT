@@ -1,8 +1,5 @@
 # AIRMAN: Aviation RAG Assistant ✈️
 
-> **Internship Technical Assignment**
-> A reliable, safety-first Retrieval-Augmented Generation (RAG) system for aviation technical manuals.
-
 ## 📌 Project Overview
 AIRMAN is a specialized AI assistant designed to answer pilot queries strictly based on provided PDF manuals (e.g., Flight Planning, Meteorology). It prioritizes **grounding** and **safety** over creativity.
 
@@ -87,6 +84,7 @@ To verify reliability, run the automated evaluation script (tests 50 questions):
 Bash
 python evaluate.py
 This generates a report in tests/eval_report.json showing the Hit Rate, Faithfulness, and Hallucination Rate.
+
 
 
 ```bash
