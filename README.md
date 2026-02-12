@@ -20,6 +20,7 @@ AIRMAN is a specialized AI assistant designed to answer pilot queries strictly b
 ### 1. Clone & Setup
 
 git clone [https://github.com/rovin-benny/AIRMAN-RAG-ASSISTANT.git](https://github.com/rovin-benny/AIRMAN-RAG-ASSISTANT.git)
+
 cd AIRMAN-RAG-ASSISTANT
 
 # Create virtual env
@@ -88,4 +89,5 @@ This generates a report in tests/eval_report.json showing the Hit Rate, Faithful
 
 
 ```bash
+
 
